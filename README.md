@@ -16,7 +16,7 @@ The StompByte uses an ATMega328p produce [drum sounds/patterns](http://geekfunkl
 1. pattern: mario bump – mario fireball – mario jump – mario fireball
  
 ## Compiling/Flashing
-The code is written for the Arduino IDE. The code can be most easily compiled and flashed to the ATMega328P by swapping it with the ATMega in an Arduino UNO and uploading the code, then swapping the ATMega back into the StompByte. You can also use your own programmer, in which case you should use the Boards Manager in the IDE to install the DIY AVR boards definitions, then select the ATMega328P as your board and select 16MHz crystal/resonator as your processor speed.To compile a .hex file for flashing directly using your own programmer, choose "Export compiled Binary" in the IDE.
+The code is written for the Arduino IDE. The code can be most easily compiled and flashed to the ATMega328P by swapping it with the ATMega in an Arduino UNO and uploading the code, then swapping the ATMega back into the StompByte. You can also use your own programmer, in which case you should use the Boards Manager in the IDE to install the DIY AVR boards definitions, then select the ATMega328P as your board and select 16MHz crystal/resonator as your processor speed. To compile a _.hex_ file for flashing directly using your own programmer, choose "Export compiled Binary" in the IDE.
 
 To program your ATMega328P using a Raspberry Pi, make the following connections from the GPIO header:
 
