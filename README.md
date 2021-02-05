@@ -1,5 +1,6 @@
 # StompByte
-The StompByte uses an ATMega328p produce drum sounds/patterns using PCM when a button is pressed/released. Holding the button for 2sec will change sounds/patterns, and play a short preview. There are 10 samples and 3 patterns:
+The StompByte uses an ATMega328p produce [drum sounds/patterns](http://geekfunklabs.com/wp-content/uploads/2021/02/stompbyte_sounds.ogg) using PCM when a button is pressed/released. Holding the button for 2sec will change sounds/patterns, and play a short preview. There are 10 samples and 3 patterns:
+
 1. muted kick
 1. rock kick
 1. tr808 kick
